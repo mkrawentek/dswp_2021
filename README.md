@@ -6,9 +6,9 @@
 
   * Pogrubienie **czcionki**
   * Użycie _kurysywy_
-  * Link do Wikipedii jest [tutaj](www.wikipedia.org)
   * [Referencja][1]  
-  [1]: www.google.pl
+  [1]: www.google.com  
+  * Link do Wikipedii jest [tutaj](www.wikipedia.org)
   * >Cytowanie  
     Tekstu  
     Tekstu  
