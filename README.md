@@ -6,7 +6,7 @@
 
   * Pogrubienie **czcionki**
   * Użycie _kurysywy_
-  * [Referencja][1]  
+  * Referencja[1]  
   [1]: www.google.com  
   * Link do Wikipedii jest [tutaj](www.wikipedia.org)
   * >Cytowanie  
