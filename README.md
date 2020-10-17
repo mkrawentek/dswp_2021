@@ -6,7 +6,7 @@
 
   * Pogrubienie **czcionki**
   * Użycie _kurysywy_
-  * [Referencja][1]
+  * [Referencja][Link do referencji]
   * Link do Wikipedii jest [tutaj](www.wikipedia.org)
   * >Cytowanie  
     Tekstu  
@@ -18,4 +18,4 @@
 print('Hello world')
 ```
 
-[1]: www.google.com
+[Link do referencji]: http://www.reddit.com
