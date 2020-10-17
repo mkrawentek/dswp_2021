@@ -5,7 +5,7 @@
 * Tworzenie pliku README.md
 
   * Pogrubienie **czcionki**
-  * Użycie _kurysywy_
+  * Użycie _kursywy_
   * [Referencja][Link do referencji]
   * Link do Wikipedii jest [tutaj](www.wikipedia.org)
   * >Cytowanie  
